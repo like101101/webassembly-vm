@@ -26,4 +26,5 @@ For example, you can perform "add 2 and 5" by this command line
 
 
 Note that if you are getting "Permission denied" as error, do the following command
+
 `chomd +x vm`
