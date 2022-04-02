@@ -2,7 +2,7 @@
 
 Webassembly local machine that execute webassembly binary code in C.
 
-Collaborate with Tianze Shan, Yinghan Dai.
+Collaborated with Tianze Shan, Yinghan Dai.
 
 
 Version 1.0 Supporting Arithmatic Operation and Logical Operation
